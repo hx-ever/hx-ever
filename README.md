@@ -37,10 +37,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hx-ever&show_icons=true&theme=radical" alt="Hank's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hx-ever&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hx-ever&show_icons=true&theme=tokyonight" alt="Hank's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hx-ever&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
