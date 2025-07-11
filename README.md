@@ -10,7 +10,6 @@
 
 * **Custom Macropads & Keyboards** with KMK firmware on Raspberry Pi Pico / XIAO RP2040
 
-
 ## 🛠 Skills & Tools
 
 | Hardware           | Firmware & Code       | CAD & Design       |
@@ -33,3 +32,15 @@
 ## 🤝 Get in Touch
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/hsinweihsu/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hx-ever&show_icons=true&theme=radical" alt="Hank's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hx-ever&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
