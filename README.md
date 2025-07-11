@@ -4,7 +4,6 @@
 
 > Hardware hacker • Firmware tinkerer • Electro‑mechanical enthusiast
 
----
 
 ## 🔭 What I’m Working On
 
