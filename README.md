@@ -21,6 +21,8 @@
 
 * **KMK-Based Macropad** · Fully custom 10‑key macropad with 3D‑printed enclosure, Seeed XIAO RP2040 & KMK firmware
 * **White‑Line Following Buggy** · STM32F401 line tracking with quantized curvature output
+* **AuraEyez** · This ESP32-powered Smart Assistant combines interactive “RoboEyes” animations with real-time environmental sensing and a two-knob control interface
+* **Arx** · Four propellor drone equipped with Seeed Xiao ESP32 S3 module controlled using mobile phone
 
 ## 🌱 I’m Learning
 
