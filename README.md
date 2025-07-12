@@ -7,7 +7,7 @@
 
 ## 🔭 What I’m Working On
 
-* **Custom Macropads & Keyboards** with KMK firmware on Raspberry Pi Pico / XIAO RP2040
+* **Video Transmission Feed** for Arx (ESP32-Drone)
 
 ## 🛠 Skills & Tools
 
