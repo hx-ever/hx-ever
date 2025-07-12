@@ -34,7 +34,6 @@
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/hsinweihsu/)
 
----
 
 ## 📊 GitHub Stats
 
